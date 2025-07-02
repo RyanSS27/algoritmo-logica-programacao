@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\FatorialElementos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFE0633-EF14-4808-B191-FD38B14BA1A5}|FatorialElementos.vcxproj|C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\FatorialElementos\\FatorialElementos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5BFE0633-EF14-4808-B191-FD38B14BA1A5}|FatorialElementos.vcxproj|solutionrelative:FatorialElementos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FatorialElementos.cpp",
+              "DocumentMoniker": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\FatorialElementos\\FatorialElementos.cpp",
+              "RelativeDocumentMoniker": "FatorialElementos.cpp",
+              "ToolTip": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\FatorialElementos\\FatorialElementos.cpp*",
+              "RelativeToolTip": "FatorialElementos.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T14:37:01.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

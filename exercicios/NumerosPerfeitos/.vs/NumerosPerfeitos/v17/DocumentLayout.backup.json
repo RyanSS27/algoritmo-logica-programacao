@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\NumerosPerfeitos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9B4A69-592E-4A63-9EA3-F32C87AEE0B8}|NumerosPerfeitos.vcxproj|C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\NumerosPerfeitos\\NumerosPerfeitos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E9B4A69-592E-4A63-9EA3-F32C87AEE0B8}|NumerosPerfeitos.vcxproj|solutionrelative:NumerosPerfeitos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumerosPerfeitos.cpp",
+              "DocumentMoniker": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\NumerosPerfeitos\\NumerosPerfeitos.cpp",
+              "RelativeDocumentMoniker": "NumerosPerfeitos.cpp",
+              "ToolTip": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\NumerosPerfeitos\\NumerosPerfeitos.cpp",
+              "RelativeToolTip": "NumerosPerfeitos.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T18:23:04.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

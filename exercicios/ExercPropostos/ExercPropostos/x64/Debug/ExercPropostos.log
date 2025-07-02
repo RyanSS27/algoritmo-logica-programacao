@@ -1,0 +1,3 @@
+﻿  Exerc1.cpp
+C:\Users\O.S 5056\Documents\estudos\c++\exercicios\ExercPropostos\Exerc1.cpp(8,27): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
+  ExercPropostos.vcxproj -> C:\Users\O.S 5056\Documents\estudos\c++\exercicios\ExercPropostos\x64\Debug\ExercPropostos.exe

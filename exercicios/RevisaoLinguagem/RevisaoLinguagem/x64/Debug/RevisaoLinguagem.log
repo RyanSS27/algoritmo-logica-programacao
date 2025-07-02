@@ -1,0 +1,5 @@
+﻿  Funcoes.cpp
+C:\Users\O.S 5056\Documents\estudos\c++\exercicios\RevisaoLinguagem\Funcoes.cpp(24,12): warning C4244: 'return': conversão de 'double' para 'int', possível perda de dados
+C:\Users\O.S 5056\Documents\estudos\c++\exercicios\RevisaoLinguagem\Funcoes.cpp(41,106): error C2001: newline em constante
+C:\Users\O.S 5056\Documents\estudos\c++\exercicios\RevisaoLinguagem\Funcoes.cpp(41,106): error C2143: erro de sintaxe: ';' ausente antes de 'cadeia de caracteres'
+C:\Users\O.S 5056\Documents\estudos\c++\exercicios\RevisaoLinguagem\Funcoes.cpp(42,2): error C2146: erro de sintaxe: ';' ausente antes do identificador 'cout'

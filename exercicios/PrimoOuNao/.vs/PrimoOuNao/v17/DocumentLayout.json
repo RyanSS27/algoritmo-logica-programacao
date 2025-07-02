@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\PrimoOuNao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6435D38A-6B41-4745-AA83-044EF81FE983}|PrimoOuNao.vcxproj|C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\PrimoOuNao\\PrimoOuNao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6435D38A-6B41-4745-AA83-044EF81FE983}|PrimoOuNao.vcxproj|solutionrelative:PrimoOuNao.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimoOuNao.cpp",
+              "DocumentMoniker": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\PrimoOuNao\\PrimoOuNao.cpp",
+              "RelativeDocumentMoniker": "PrimoOuNao.cpp",
+              "ToolTip": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\PrimoOuNao\\PrimoOuNao.cpp",
+              "RelativeToolTip": "PrimoOuNao.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T18:09:17.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

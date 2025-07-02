@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\RevisaoLinguagem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5608FC-BE24-4AAC-88A9-A572C4D0B365}|RevisaoLinguagem.vcxproj|C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\RevisaoLinguagem\\Funcoes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C5608FC-BE24-4AAC-88A9-A572C4D0B365}|RevisaoLinguagem.vcxproj|solutionrelative:Funcoes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcoes.cpp",
+              "DocumentMoniker": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\RevisaoLinguagem\\Funcoes.cpp",
+              "RelativeDocumentMoniker": "Funcoes.cpp",
+              "ToolTip": "C:\\Users\\O.S 5056\\Documents\\estudos\\c\u002B\u002B\\exercicios\\RevisaoLinguagem\\Funcoes.cpp",
+              "RelativeToolTip": "Funcoes.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T12:57:10.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
