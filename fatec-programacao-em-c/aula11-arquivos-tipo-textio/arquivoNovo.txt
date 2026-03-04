@@ -1,0 +1,7 @@
+Mario	10	6	9
+Maria	8	5	7
+Flavio	5	3	2
+Gustavo	3	8	9
+Fernado	8	4	7
+Ryan	2	6	8
+Agatha	1	4	7
