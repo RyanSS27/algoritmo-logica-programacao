@@ -1,11 +1,9 @@
-/******************************************************************************
-Qual será a saída, se o usuário digite as cadeias "um", "dois" e "tres"? Por quê?
-*******************************************************************************/
-
-//Matricula: 18 40 48 25 13 02 9
-
 #include <stdio.h>
-#include "pilha.h" // pilha de char *
+#include "pilha.h" // trocar a pilha para char *
+/*
+  Ryan
+  RA: 1840482513013
+*/
 int main(void) {
     Pilha P = pilha(5);
     char s[11];

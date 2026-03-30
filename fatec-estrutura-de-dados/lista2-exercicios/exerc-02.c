@@ -1,13 +1,10 @@
-/**************************
-Faça a alteração mínima necessária para que o programa do exercício anterior ordene os números
-em ordem decrescente, eliminando números repetidos.
-***************************/
-
 #include <stdio.h>
 #include "pilha.h"
 
-// Matricula: 18 40 48 25 13 02 9
-// 1 - True | 0 - False
+/*
+  Ryan
+  RA: 1840482513013
+*/
 int main() {
     int n, num, aux;
     

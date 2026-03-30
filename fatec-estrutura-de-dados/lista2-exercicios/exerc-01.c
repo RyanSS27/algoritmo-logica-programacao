@@ -1,14 +1,10 @@
-/******************************************************************************
-Crie um programa que usa duas pilhas A e B para ordenar uma sequência de n números dados
-pelo usuário. A ideia é organizar a pilha A de modo que nenhum item seja empilhado sobre outro
-menor (use a pilha B apenas para manobra) e, depois, descarregar e exibir os itens da pilha A.
-*******************************************************************************/
-
 #include <stdio.h>
 #include "pilha.h"
 
-// Matricula: 1840482513029
-// 1 - True | 0 - False
+/*
+  Ryan
+  RA: 1840482513013
+*/
 int main() {
     int n, num, aux;
     

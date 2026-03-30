@@ -1,15 +1,11 @@
-/**********
-Usando pilha, crie uma função para verificar se uma expressão composta apenas por chaves,
-colchetes e parênteses, representada por uma cadeia de caracteres, está ou não balanceada. Por
-exemplo, as expressões "[{()()}{}]" e "{[([{}])]}" estão balanceadas, mas as
-expressões "{[(}])" e "{[)()(]}" não estão.
-*********/
-
 #include <stdio.h>
 #include <string.h>
 #include "pilha.h"
 
-// Matricula: 18 40 48 25 13 02 9
+/*
+    Ryan
+    RA: 1840482513013
+*/
 int main() {
     char exp[100];
     int balanceada = 1;

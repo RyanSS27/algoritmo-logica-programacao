@@ -1,14 +1,11 @@
-/**********
-Usando uma pilha, crie um programa para inverter a ordem das letras nas palavras de uma frase,
-sem inverter a ordem das palavras na frase. Por exemplo, se for digitada a frase "apenas um
-teste", o programa deverá produzir a seguinte saída: sanepa mu etset.
-*********/
-
 #include <stdio.h>
 #include <string.h>
 #include "pilha.h"
 
-// Matricula: 18 40 48 25 13 02 9
+/*
+    Ryan
+    RA: 1840482513013
+*/
 int main() {
     char frase[100];
     int tamanho, num, aux;
