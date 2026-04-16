@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
-
+/*
+    Marcos Vinícius Bispo de Oliveira | RA: 1840482513029  
+    Ryan de Souza Silva | RA: 1840482513013 
+*/
 #define MAX 256
 
 typedef struct {

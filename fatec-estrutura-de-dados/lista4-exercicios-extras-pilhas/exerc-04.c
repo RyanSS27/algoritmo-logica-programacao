@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/*
+    Marcos Vinícius Bispo de Oliveira | RA: 1840482513029  
+    Ryan de Souza Silva | RA: 1840482513013 
+*/
 #define MAX 100
 
 typedef struct {
