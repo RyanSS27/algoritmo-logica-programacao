@@ -1,0 +1,35 @@
+#include <stdio.h>
+
+void troca(int v[], int i, int j) {
+    int x = v[i];
+    v[i] = v[j];
+    v[j] = x;
+}
+
+void empurra(int v[], int u) {
+    if (u == 0) return;
+    empurra(v, u - 1);
+    if (v[u - 1] > v[u]) {
+        troca(v, u - 1, u);
+    }
+}
+
+void exibe(int v[], int n) {
+    printf("{");
+    for(int i = 0; i < n; i++) {
+        printf("%d%s", v[i], (i < n - 1) ? "," : "");
+    }
+    printf("}\n");
+}
+
+int main(void) {
+    int v[9] = {51, 82, 38, 99, 75, 19, 69, 46, 27};
+    printf("Antes: ");
+    exibe(v, 9);
+    
+    empurra(v, 8); 
+    
+    printf("Depois: ");
+    exibe(v, 9);
+    return 0;
+}
